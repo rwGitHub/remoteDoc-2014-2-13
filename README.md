@@ -7,3 +7,6 @@ hackers.pdf
 NetworkSimulationExperimentsManual.pdf
 opnet ---Network Simulation Experiments Manual.pdf
 The Official Ubuntu Book 7th Edition_Prentice Hall  2012.pdf
+
+//It's obviously a fuzzier search but handy if you're not sure which package you're looking for.
+dpkg -l | grep -E '^ii' | grep firefox
