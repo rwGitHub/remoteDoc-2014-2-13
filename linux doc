@@ -77,5 +77,388 @@ git log -p src/com/ot24/t2flib/MyBuildConfig.java
 
 
 
+一个奶粉都造不好的国家会有崛起一个文字都会敏感的国家会有复兴一个鼠标都能摇塌的国家会有伟大一个说话都能判刑的国家会有法律一个权利都被代表的国家会有公平一个一生都遭搜刮的国家会有保障一个全部污染的国家会有明天一个举国都是跪拜的国家会有未来
+
+不见外敌入秦川，阿房大火映咸阳
+御敌无方，扰民有术
+民不加赋而国用饶
+轻家国而重乡土
+
+天变不足畏，祖宗不足法，人言不足恤。
+
+str,repr和反引号是将python值转为字符串的三种方法。ps :事实上，str和int,long一样，是一种类型。而repr仅仅是函数。
+
+
+adb -s 7a2718d0 uninstall com.ot24.t2f && adb -s 7a2718d0 install EtT2fNormal_wx_test.apk && rm EtT2fNormal_wx_test.apk
+
+静态检查
+lint --check UnusedResources --html 要保存的路径/文件名 要检测的工程目录 
+lint --check UnusedResources --html /home/renwei/playground/Ett2fnormal.html ~/android/workspace/EtT2f
+
+  cd /lib/
+ls
+cd x86_64-linux-gnu/
+strings libc-2.15.so 
+strings libc-2.15.so | grep GLIBC
+history
+
+=======================================================================================================================================================
+=======================================================================================================================================================
+
+谚语：：：
+Poverty is no sin. [谚语]贫非罪。
+Poverty is not a shame, but being ashamed of it is. [谚语]贫非耻，耻贫乃耻。
+Poverty makes (或acquaints men with) strange bedfellows. [谚语]同病相怜；难中不择友。
+Since this is so,it's better to accept it. 
+既来之，则安之。
+It never rains but it pours.
+[谚语]不雨则已，一雨倾盆(指事情不发生则已，一旦发生便接踵而来)。
+God tempers the wind to the shorn lamb. [谚语]上帝对不幸的人是宽厚的
+Blood is thicker than water.
+血浓于水.
+Charity begins at home.
+仁爱始于家.
+A person should help his family or close friends before helping others.
+人应该先帮助家人和密友，然后再帮助其他人。
+He who would climb a ladder must begin at the bottom.
+千里之行始于足下.
+Tell me who walks with you, and I'll tell you who you are.
+观其友知其人.
+It does not matter the speed you go. The most important thing is to never stop.
+重要的不是速度，而是永不放弃。
+Think twice, act wise.
+三思而后行.
+Practice makes perfect.
+熟能生巧.
+If you want something done right, do it yourself.
+自己动手，丰衣足食。
+If you risk nothing, then you risk everything.
+万事不冒险将一事无成
+Your defeat now is your victory in the future.
+失败是成功之母。
+Where there is a will ,there is a way.
+有志者，事竟成.
+Strike while the iron is hot.
+趁热打铁.
+God helps those who help themselves.
+自助者天助.
+Birds of a feather flock together.
+物以类聚
+Who stole the donkey? [对破不了案警察的嘲讽语]究竟谁偷了驴子?
+People often say that money talks.
+人们常说有钱能使鬼推磨。
+You can talk.
+[口语]
+亏你还说别人。
+(别担心)你能行。
+You can't talk. [口语]你没资格说别人。你也一样坏。
+That's the talk! [美国口语]不错!正是这样!
+talk wet [俚语]胡诌，瞎扯，乱弹琴
+[澳大利亚英语][the wet](澳大利亚中部或北部的)雨季
+Agree, for the law is costly. [谚语]和解好，官司代价高。
+Some people often worry about what they will do in a situation that might happen in the future.
+有些人常常为如何应对未来可能发生的情况而忧心。
+Don't cross that bridge until you come to it.
+船到桥头自然直.
+It is usually much better to prevent a problem from happening than it is to find ways to solve it.
+在开始前就预防问题发生总比发生后想办法解决问题好得多。
+an ounce of prevention is worth a pound of cure.
+预防为主，治疗为辅。
+You can catch more flies with honey than with vinegar.
+用蜜比用醋能捉到更多的苍蝇。
+ That sounds fine with me
+可以。
+What do they do?
+她们是干什么的？
+Two blacks do not make a white. [谚语]两邪不等于一正。(或：两个错误不等于一个正确。)
+The die is cast(或thrown). [谚语]木已成舟。(事成定局，不可更改，无法挽回)
+Opportunity knocks (at the door)only once. [谚语]机不可失，时不再来。
+Laurence bids wages. [谚语]夏日炎热，什么事都懒得做。
+Out of debt, out of danger. [谚语]无债一身轻。
+He that dies pays all debts. [谚语]一死了百债。
+Debt is the worst poverty. [谚语]贫穷莫过于负债。
+'You might drive behind somebody that is driving slow and be angry because they're old.
+在一个开车很慢的人后面开车你可能会生气，因为他们老了。
+
+
+
+
+1.3 chapter:
+For some people, not knowing what you are getting is part of the fun. It’s like
+opening a birthday gift.
+If you’re looking for the convenience of shrink-wrapped software that just installs and runs,
+there are open source projects for you—just not as many.
+
+1.3.2
+you won’t know what you’re getting into. 无所适从
+
+1.4.1
+people follow some intuitive file-naming conventions, and the file-
+name does a good job of identifying the archive type
+人们遵循一些直观的文件名命名规则，文件名就能较好的反映出它的归档类型。
+
+1.4.2
+Archive files keep track of the files they contain with a table of contents.
+归档文件用一个目录表记录着其所包含的文件。
+
+.tar tar archive, uncompressed
+.tar.gz .tgz tar archive, compressed with gzip
+.tar.bz2 tar archive, compressed with bzip2
+.tar.Z .taz tar archive, compressed with the UNIX compress command
+
+
+tar tar -tvf filename
+tar archive compressed with gzip tar -tzvf filename
+tar archive compressed with bzip tar -tjvf filename
+
+file 文件名
+file -z 文件名
+
+1.5.1
+Most often, binaries are available in a package format and less frequently in tar
+archive format.
+通常，二进制格式适用于软件包格式，很少用于tar归档文件。
+
+1.6.0
+Don't assume that you are not a target. 不要想当然的认为自己不会成为被攻击的对象。
+
+1.6.1
+With security, it’s not just what you run, but also when you run it. 安全性不仅仅所运行的程序本身，也包含运行过程的安全。
+
+1.6.2
+Anything else will cause it to complain.Who stole the donkey? [对破不了案警察的嘲讽语]究竟谁偷了驴子? 否则就会引起错误。
+
+
+1.7 之前
+Simply trying to build an unfamiliar project can become a time vacuum as you search for all
+the required development packages。 翻译不通
+
+These are the scripts that pose the most immediate danger。脚本造成最直接的危害
+
+You install the package and cross your fingers as to whether
+it’s going to work. 翻译不通
+
+1.7.0
+The textual information that comes with a package varies from one format to the
+next. 软件包的文本信息因格式不同而不同。
+
+This may be names of other packages or names of executable programs that the package requires. 翻译不通。
+
+1.7.3
+ar -t cron_3.0pl1-72_i386.deb 检查软件包文件
+ar -x filename.deb  解压软件包
+
+现在可以直接压缩和解压了:
+tar -Jcvf etc.tar.xz /etc
+tar -Jxf etc.tar.xz
+
+tar常见文件解压法：
+　　　　.gz - z 小写；
+　　　　.bz2 - j 小写；
+　　　　.xz - J 大写；
+　　　　.Z - Z大写；
+
+1.9.0
+I looked at some of the tools that are built on top of the packaging tools.
+介绍了一些建立在打包工具之上的工具。
+
+概述：
+dpkg , gpg,gzip, bzip2, tar, ar .
+
+============================================================================================================
+chapter 2
+============================================================================================================
+
+2.1
+工具：make .
+2.2.1
+The simplicity of make is both a feature and a drawback.
+make 的精简既是它的有点也是它的不足。
+
+And they feel that unknown dangers in the business world threaten the survival of their business. survival 的用法貌似有问题。
+
+书：1，隐藏的心理学
+书籍推荐：《侧写师——用犯罪心理学破解微表情密码》
+
+pseudotarget 不是很理解。
+whatis 命令， 查找man 页。
+apropos and whatis 两个命令搜索man手册页。
+spike would work 。 秒杀
+Well met 。 幸会幸会
+an order for medicine. 处方药。
+3.2.5
+man 手册各个部分
+SEE ALSO
+ENVIRONMENT
+CONFORMING TO
+BUGS
+===========================
+whatis intro 
+selections
+==================
+ascii 
+boot 
+bootparam 
+charsets 
+hier 
+man 
+operator 
+regex 
+suffixes 
+units 
+uri
+url
+urn
+3.2.7
+=================
+info 文档化所有工具
+troff
+nroff
+==================
+3.2.8
+If you type info info, you get information about the info format, not the info program.
+you have to type info info-stnd, which will give you the correct documentation.
+info "(make)Quick Reference" 精确查找info页
+info --subnodes some-topic | less 像man 一样查看命令
+
+info --apropos 命名 搜索结果较apropos 更中肯
+Each info file has an index, which can be searched with the --apropos option, so
+your search is more likely to produce output with info than with the apropos
+command used for man pages
+
+info also has a -w option that behaves like the whereis command.
+=================================
+info pages:
+coreutils 
+cpp 
+gcc 
+ld 
+libc 
+=================================
+GNOME’s help system is provided by the gnome-help command(also known as yelp) .
+yelp is smart enough to find files in the current working directory.
+
+Many complex tools and servers are documented by more than one man page, and these elements are cross referenced in
+the SEE ALSO section. 
+3.3.3 终止了，开始学习computer network written by andrew S, david.
+
+export PATH=$HOME/android/sdk/tools:$HOME/android/sdk/platform-tools:$HOME/android/NDK:$PATH
+
+env //打印所有的环境变量  
+echo $PATH //打印PATH环境变量  
+ls -1 -F | grep -v [/$] 仅显示所有文件
+ls -l | grep ^d 仅所有目录
+
+搜索
+----
+whereis <程序名称>
+查找软件的安装路径
+-b 只查找二进制文件
+-m 只查找帮助文件
+-s 只查找源代码
+-u 排除指定类型文件
+-f 只显示文件名
+-B <目录> 在指定目录下查找二进制文件
+-M <目录> 在指定目录下查找帮助文件
+-S <目录> 在指定目录下查找源代码
+
+locate <文件名称>
+在文件索引数据库中搜索文件
+-d <数据库路径> 搜索指定数据库
+updatedb
+更新文件索引数据库
+
+
+find [路径] <表达式>
+查找文件
+-name <表达式> 根据文件名查找文件
+-iname <表达式> 根据文件名查找文件，忽略大小写
+-path <表达式> 根据路径查找文件
+-ipath <表达式> 根据路径查找文件，忽略大小写
+-amin <分钟> 过去N分钟内访问过的文件
+-atime <天数> 过去N天内访问过的文件
+-cmin <分钟> 过去N分钟内修改过的文件
+-ctime <天数> 过去N天内修改过的文件
+-anewer <参照文件> 比参照文件更晚被读取过的文件
+-cnewer <参照文件> 比参照文件更晚被修改过的文件
+-size <大小> 根据文件大小查找文件，单位b c w k M G
+-type <文件类型> 根据文件类型查找文件。b 块设备 c 字符设备 d 目录 p 管道文件 f 普通文件 l 链接 s 端口文件
+-user <用户名> 按归属用户查找文件
+-uid <uid> 按UID查找文件
+-group <群组名> 按归属群组查找文件
+-gid <gid> 按GID查找文件
+-empty 查找空文件
+
+
+grep <字符串>|"<正则表达式>" [文件名]
+在文件中搜索内容
+
+各种文件类型解压缩：
+.tar
+解包：tar xvf FileName.tar
+打包：tar cvf FileName.tar DirName
+（注：tar是打包，不是压缩！）
+---------------------------------------------
+.gz
+解压1：gunzip FileName.gz
+解压2：gzip -d FileName.gz
+压缩：gzip FileName
+.tar.gz 和 .tgz
+解压：tar zxvf FileName.tar.gz
+压缩：tar zcvf FileName.tar.gz DirName
+---------------------------------------------
+.bz2
+解压1：bzip2 -d FileName.bz2
+解压2：bunzip2 FileName.bz2
+压缩： bzip2 -z FileName
+.tar.bz2
+解压：tar jxvf FileName.tar.bz2
+压缩：tar jcvf FileName.tar.bz2 DirName
+---------------------------------------------
+.bz
+解压1：bzip2 -d FileName.bz
+解压2：bunzip2 FileName.bz
+压缩：未知
+.tar.bz
+解压：tar jxvf FileName.tar.bz
+压缩：未知
+---------------------------------------------
+.Z
+解压：uncompress FileName.Z
+压缩：compress FileName
+.tar.Z
+解压：tar Zxvf FileName.tar.Z
+压缩：tar Zcvf FileName.tar.Z DirName
+---------------------------------------------
+.zip
+解压：unzip FileName.zip
+压缩：zip FileName.zip DirName
+---------------------------------------------
+.rar
+解压：rar x FileName.rar
+压缩：rar a FileName.rar DirName
+
+rar请到：http://www.rarsoft.com/download.htm 下载！
+解压后请将rar_static拷贝到/usr/bin目录（其他由$PATH环境变量指定的目录也可以）：
+[root@www2 tmp]# cp rar_static /usr/bin/rar
+---------------------------------------------
+.lha
+解压：lha -e FileName.lha
+压缩：lha -a FileName.lha FileName
+
+lha请到：http://www.infor.kanazawa-it.ac.jp/~ishii/lhaunix/下载！
+>解压后请将lha拷贝到/usr/bin目录（其他由$PATH环境变量指定的目录也可以）：
+[root@www2 tmp]# cp lha /usr/bin/
+---------------------------------------------
+.rpm
+解包：rpm2cpio FileName.rpm | cpio -div
+---------------------------------------------
+.deb
+解包：ar p FileName.deb data.tar.gz | tar zxf -
+---------------------------------------------
+.tar .tgz .tar.gz .tar.Z .tar.bz .tar.bz2 .zip .cpio .rpm .deb .slp .arj .rar .ace .lha .lzh .lzx .lzs .arc .sda .sfx .lnx .zoo .cab .kar .cpt .pit .sit .sea
+解压：sEx x FileName.*
+压缩：sEx a FileName.* FileName
+
 			
 			
