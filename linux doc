@@ -1,1 +1,81 @@
 //TODO ...
+﻿http://ishare.iask.sina.com.cn/f/23237964.html
+
+http://download.csdn.net/tag/GOF%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%8F%8C%E8%AF%AD%E7%89%88
+
+http://ishare.iask.sina.com.cn/f/16850580.html
+
+http://applet.sqt.orientaltele.com
+
+sudo dmidecode  | grep CPU
+
+sudo more /proc/cpuinfo | grep -i "cpu cores"
+
+more /proc/cpuinfo | grep -i "cache size"
+
+回到之前的branch
+git reset --hard 10fef83da8c850f112267de78ad41f5eed9a766d
+
+git reset --hard HEAD~2                   # 取消当前版本之前的两次提交
+git push origin HEAD --force              # 强制提交到远程版本库，从而删除之前的两次提交数据
+
+cp /etc/skel/.[a-z]* /home/xx/
+
+===================================================================
+查看应用的数据
+adb shell
+run-as com.yourapp
+cd /data/data/com.yourapp
+ls -l
+
+===================================================================
+//练习git usages
+git remote add origin git@192.168.1.202:et/android/testPro.git
+
+
+创建远程仓库
+cd 工程目录
+git init 
+cd .git目录，接着编辑config
+git remote add origin git@192.168.1.202:et/android/EtT2fCredit.git
+git fetch
+
+======================================================================
+T2F
+git clone git@192.168.1.202:et/android/EtBase.git
+git clone git@192.168.1.202:et/android/EtBaseUi.git
+git clone git@192.168.1.202:et/android/EtPluginCountry.git
+git clone git@192.168.1.202:et/android/EtT2f.git
+
+查看远程引用
+git show-ref
+
+
+git log -p 
+git log -p src/com/ot24/t2flib/MyBuildConfig.java
+
+
+==========================================================================
+	git clone git@192.168.1.202:et/android/EtBase.git && git clone git@192.168.1.202:et/android/EtBaseUi.git && git clone git@192.168.1.202:et/android/EtCall.git && git clone git@192.168.1.202:et/android/EtCallSimple.git
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
+
+
+连接m2 的方法
+拨号模式下输入 *#*#717717#*#* 即可.
+
+用完了再重复即可关闭
+
+
+
+			
+			
