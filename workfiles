@@ -4,3 +4,9 @@
     android:fromYDelta="100.0%p"
     android:interpolator="@android:anim/accelerate_decelerate_interpolator"
     android:toYDelta="0.0%"/>
+
+
+How to see the actual memory and its properties?
+lshw -short -C memory
+sudo dmidecode -t memory
+free -m 
