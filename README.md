@@ -14,3 +14,10 @@ dpkg -l | grep -E '^ii' | grep firefox
 
 //To check whether a package is install also
 dpkg -l | grep chromium-browser
+
+// sending a broadcast to the media scanner so it will scan the new
+			// screenshot.
+			Intent requestScan = new Intent(
+					Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
+			requestScan.setData(Uri.fromFile(file));
+			sendBroadcast(requestScan);
