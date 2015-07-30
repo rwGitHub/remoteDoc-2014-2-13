@@ -10,3 +10,6 @@ How to see the actual memory and its properties?
 lshw -short -C memory
 sudo dmidecode -t memory
 free -m 
+
+
+http://blog.sina.com.cn/s/blog_66cf0e740102v3f3.html 增量更新APP的文章
